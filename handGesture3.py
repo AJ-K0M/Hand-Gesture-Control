@@ -26,8 +26,6 @@ cap = cv2.VideoCapture('udp://0.0.0.0:11111')
 direction_mapping = {
     "Right": "right",
     "Left": "left",
-    "Forward": "forward",
-    "Backward": "backward",
     "Up": "up",
     "Down": "down",
 }
